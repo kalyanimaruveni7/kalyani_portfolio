@@ -1,16 +1,51 @@
-# React + Vite
+# Kalyani Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website built using React and Vite. The portfolio showcases my skills, projects, education, certifications, and professional experience.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐 **Azure Static Web Apps:**  
+https://jolly-cliff-0361dc600.3.azurestaticapps.net/
 
-## React Compiler
+## About the Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This portfolio is a responsive frontend web application developed using React.js and Vite.
 
-## Expanding the ESLint configuration
+It provides an organized way to present my:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- About Me
+- Technical Skills
+- Projects
+- Education
+- Certifications
+- Experience
+- Contact Information
+
+## Technologies Used
+
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- GitHub
+- GitHub Actions
+- Microsoft Azure Static Web Apps
+
+## Project Structure
+
+```text
+kalyani_portfolio/
+├── .github/
+│   └── workflows/
+├── public/
+├── src/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
