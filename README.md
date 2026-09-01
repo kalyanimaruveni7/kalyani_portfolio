@@ -1,6 +1,6 @@
 # Kalyani Portfolio
 
-A personal portfolio website built using React and Vite. The portfolio showcases my skills, projects, education, certifications, and professional experience.
+A personal portfolio website built using React and Vite. The portfolio showcases my skills, projects, education, certifications, and professional experience
 
 ## Live Demo
 
